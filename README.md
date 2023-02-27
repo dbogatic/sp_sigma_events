@@ -13,6 +13,7 @@ Source: [The Probability of Six Sigma Events](https://nox.im/posts/2021/1230/the
 ### The empirical rule, sometimes called the 68-95-99.7 rule, says that for a random variable that is normally distributed, 68% of data falls within one standard deviation of the mean, 95% falls within two standard deviations of the mean, and 99.7% falls within three standard deviations of the mean.
 
 ![Normal Distribution](Resources/normal_distribution.png)
+
 Image source: [Wikipedia](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
 
 Source: [The Normal Distribution](https://www.statology.org/the-normal-distribution/)
