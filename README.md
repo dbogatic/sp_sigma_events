@@ -3,7 +3,7 @@
 ### Black Swan events are rare and unpredictable outliers that are also referred to as “six sigma events”, meaning six standard deviation events. It is a concept of probabilistic risk modeling and is characterized by a price drop of six times the volatility (standard deviations) of an asset. Volatility is denoted by the lower case Greek letter σ (Sigma).
 ### A six sigma event assumes a 0.000000197% probability of occurrence. In other words once every 1.38 million years.
 
-![sigma_freqiencies](resources/sigma_freq.png)
+![sigma_frequencies](resources/sigma_freq.png)
 
 Image source: [Wikipedia](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
 
