@@ -1,4 +1,4 @@
-# Expected Frequency of S&P 500 Historical Returns vs Normal Distribution
+# Expected Sigma Event Frequency of S&P 500 Returns vs Normal Distribution 
 
 ### Black Swan events are rare and unpredictable outliers that are also referred to as “six sigma events”, meaning six standard deviation events. It is a concept of probabilistic risk modeling and is characterized by a price drop of six times the volatility (standard deviations) of an asset. Volatility is denoted by the lower case Greek letter σ (Sigma).
 ### A six sigma event assumes a 0.000000197% probability of occurrence. In other words once every 1.38 million years.
